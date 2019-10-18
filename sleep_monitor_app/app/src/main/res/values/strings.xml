@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PositionMonitor</string>
+    <string name="channel_name">Position Monitor</string>
+    <string name="channel_description">Position Monitor</string>
+    <string name="notification_title">Position Monitor</string>
+    <string name="notification_message">Tracking position</string>
+    <string name="ticker_text">Tracking position</string>
+</resources>
